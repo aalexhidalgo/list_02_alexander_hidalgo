@@ -7,7 +7,7 @@ using TMPro;
 public class Exercise_2 : MonoBehaviour
 {
     public float timeCounter; //Current Time: We introduce the SECONDS manually, through the inspector
-    public float initialTime; //Start time
+    private float initialTime; //Start time
 
     public TextMeshProUGUI timeText;
     public Image timeImage;
@@ -27,7 +27,8 @@ public class Exercise_2 : MonoBehaviour
     {
         timeCounter -= Time.deltaTime;
         timeText.text = Mathf.Round(timeCounter).ToString(); //With Mathf.Round we get the number without the miliseconds        
-        timeImage.fillAmount = timeCounter / initialTime; //The amount of image will be shown by the amount of time that had passed to the start time
+        timeImage.fillAmount = timeCounter / initialTime; /*The amount of image that will be shown 
+        based on the amount of time that had passed to the start time*/
     }
 
     //To start the counting
