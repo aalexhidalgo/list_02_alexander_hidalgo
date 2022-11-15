@@ -33,9 +33,12 @@ public class Exercise_2 : MonoBehaviour
 
     //To start the counting
     public void StartButton()
-    {
-        initialTime = timeCounter;      
-        timeText.text = timeCounter.ToString();
-        canClick = false;
+    {   
+        if(canClick == true) //We can't pause
+        {
+            initialTime = timeCounter;
+            timeText.text = timeCounter.ToString();
+            canClick = false;
+        }
     }
 }
