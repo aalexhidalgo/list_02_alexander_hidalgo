@@ -11,7 +11,7 @@ public class Exercise_1 : MonoBehaviour
     public GameObject spherePrefab;
 
     public int actualEnemies = 1;
-    public int currentWave = 1;
+    private int currentWave = 1;
 
     void Update()
     {
