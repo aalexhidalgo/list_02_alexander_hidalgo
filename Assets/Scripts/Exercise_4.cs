@@ -42,7 +42,6 @@ public class Exercise_4 : MonoBehaviour
     private IEnumerator RandomOption()
     {
         canClick = false;
-        yield return new WaitForSeconds(1f);
         randomNumber = Random.Range(0, 2); //The PC chooses between 0 and 1
         randomGuess[randomNumber].SetActive(true); //It shows the result on the screen
 

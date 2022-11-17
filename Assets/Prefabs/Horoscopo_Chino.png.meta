@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ebfa78406586ac84fa2b72f22aac8420
+guid: 9663662839068a84081ee9c53b05eb72
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -7,7 +7,7 @@ TextureImporter:
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
-    sRGBTexture: 0
+    sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -141,7 +141,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: da75962930fb7426784c06eaefcce8a5_0
+      name: Horoscopo_Chino_Rata
       rect:
         serializedVersion: 2
         x: 0
@@ -149,20 +149,20 @@ TextureImporter:
         width: 220
         height: 220.25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea5824fad908ee048be1f1bd7e053b60
-      internalID: 676312044
+      spriteID: 786736b5635cbcb40ba1ef0f84073f96
+      internalID: 540240813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: da75962930fb7426784c06eaefcce8a5_1
+      name: Horoscopo_Chino_Buey
       rect:
         serializedVersion: 2
         x: 220
@@ -170,20 +170,20 @@ TextureImporter:
         width: 220
         height: 220.25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7a4ecc17b7e5c84c9dfcd80aedcdf3f
-      internalID: 30122382
+      spriteID: 241e13cf7abe18b4aa754bb541a012c2
+      internalID: 1546865091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: da75962930fb7426784c06eaefcce8a5_2
+      name: Horoscopo_Chino_Tigre
       rect:
         serializedVersion: 2
         x: 440
@@ -191,20 +191,20 @@ TextureImporter:
         width: 220
         height: 220.25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a68c7027dd90c0d4baec1ed20d5fff32
-      internalID: 2048742248
+      spriteID: ede6b9d86dbcd72409b130ddd91e4e7d
+      internalID: -344413859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: da75962930fb7426784c06eaefcce8a5_3
+      name: Horoscopo_Chino_Conejo
       rect:
         serializedVersion: 2
         x: 0
@@ -212,20 +212,20 @@ TextureImporter:
         width: 220
         height: 220.25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b6f3a365ab9a2a4aab95697c67e2c94
-      internalID: 1539925715
+      spriteID: 024d65dff7de63f4c907e81b62cd857d
+      internalID: 1353563045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: da75962930fb7426784c06eaefcce8a5_4
+      name: Horoscopo_Chino_Dragon
       rect:
         serializedVersion: 2
         x: 220
@@ -233,20 +233,20 @@ TextureImporter:
         width: 220
         height: 220.25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71b42d060f514a54e948db75b39165e6
-      internalID: -302629578
+      spriteID: fac3b2dbb806fb24d978fa25878c183c
+      internalID: 102430889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: da75962930fb7426784c06eaefcce8a5_5
+      name: Horoscopo_Chino_Serpiente
       rect:
         serializedVersion: 2
         x: 440
@@ -254,41 +254,41 @@ TextureImporter:
         width: 220
         height: 220.25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed2becd5935ed51478f3b1e86872852c
-      internalID: 1765373026
+      spriteID: 6bed21dce01f9794dba440d4327d9152
+      internalID: -1156804150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: da75962930fb7426784c06eaefcce8a5_6
+      name: Horoscopo_Chino_Caballo
       rect:
         serializedVersion: 2
         x: 0
-        y: 220.75
+        y: 221
         width: 220
-        height: 220.25
+        height: 220
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54ffcacdf3679974ca3177e58fcd8ec8
-      internalID: -956839430
+      spriteID: 07a813f9ac2c63f448a3d7c446eb1a70
+      internalID: -1745659814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: da75962930fb7426784c06eaefcce8a5_7
+      name: Horoscopo_Chino_Cabra
       rect:
         serializedVersion: 2
         x: 220
@@ -296,20 +296,20 @@ TextureImporter:
         width: 220
         height: 220.25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b14913d9a75c5345a6048ddebfe2c2a
-      internalID: -541361893
+      spriteID: fc1cad54280e99b44bea4154ef9210a2
+      internalID: -427923685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: da75962930fb7426784c06eaefcce8a5_8
+      name: Horoscopo_Chino_Mono
       rect:
         serializedVersion: 2
         x: 440
@@ -317,20 +317,20 @@ TextureImporter:
         width: 220
         height: 220.25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09c3c1a5ee419894c84cbc793bc5b418
-      internalID: -551541103
+      spriteID: fd72a4502ea51814290641f9dd6b37fc
+      internalID: 751316990
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: da75962930fb7426784c06eaefcce8a5_9
+      name: Horoscopo_Chino_Gallo
       rect:
         serializedVersion: 2
         x: 0
@@ -338,20 +338,20 @@ TextureImporter:
         width: 220
         height: 220.25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9c18a82d92ebdc48b513c9f223228e1
-      internalID: -824584867
+      spriteID: 1cf6b9b48b56ddc4b86b13b02a8c3892
+      internalID: -981376624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: da75962930fb7426784c06eaefcce8a5_10
+      name: Horoscopo_Chino_Perro
       rect:
         serializedVersion: 2
         x: 220
@@ -359,20 +359,20 @@ TextureImporter:
         width: 220
         height: 220.25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f13f119ddd04034d9a8097361b1ace7
-      internalID: -1903322383
+      spriteID: d3a3f137662abae43aeaae1d44b5a8a7
+      internalID: -88712492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: da75962930fb7426784c06eaefcce8a5_11
+      name: Horoscopo_Chino_Cerdo
       rect:
         serializedVersion: 2
         x: 440
@@ -380,14 +380,14 @@ TextureImporter:
         width: 220
         height: 220.25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94144e0bf1df0ed4eb6bd2b25f8b1474
-      internalID: -147534055
+      spriteID: 99252fddf0dcd79409a33ebddf92ff92
+      internalID: 2045906135
       vertices: []
       indices: 
       edges: []
@@ -395,7 +395,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 7561c34211741dd4dac2edf5e5170bc1
+    spriteID: 30880ebee08a81f4dbeffb1bc7461bfd
     internalID: 0
     vertices: []
     indices: 
@@ -403,18 +403,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      da75962930fb7426784c06eaefcce8a5_5: 1765373026
-      da75962930fb7426784c06eaefcce8a5_11: -147534055
-      da75962930fb7426784c06eaefcce8a5_0: 676312044
-      da75962930fb7426784c06eaefcce8a5_6: -956839430
-      da75962930fb7426784c06eaefcce8a5_3: 1539925715
-      da75962930fb7426784c06eaefcce8a5_10: -1903322383
-      da75962930fb7426784c06eaefcce8a5_4: -302629578
-      da75962930fb7426784c06eaefcce8a5_8: -551541103
-      da75962930fb7426784c06eaefcce8a5_1: 30122382
-      da75962930fb7426784c06eaefcce8a5_7: -541361893
-      da75962930fb7426784c06eaefcce8a5_2: 2048742248
-      da75962930fb7426784c06eaefcce8a5_9: -824584867
+      Horoscopo_Chino_Caballo: -1745659814
+      Horoscopo_Chino_Buey: 1546865091
+      Horoscopo_Chino_Cerdo: 2045906135
+      Horoscopo_Chino_Rata: 540240813
+      Horoscopo_Chino_Conejo: 1353563045
+      Horoscopo_Chino_Tigre: -344413859
+      Horoscopo_Chino_Mono: 751316990
+      Horoscopo_Chino_Perro: -88712492
+      Horoscopo_Chino_Cabra: -427923685
+      Horoscopo_Chino_Dragon: 102430889
+      Horoscopo_Chino_Gallo: -981376624
+      Horoscopo_Chino_Serpiente: -1156804150
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
